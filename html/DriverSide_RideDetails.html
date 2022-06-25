@@ -24,9 +24,10 @@
         </ion-content>    
     </ion-app>
     <script>
+        
+      var latitude, longitude;
       setInterval(function(){
 
-        latitude, longitude;
     if (navigator.geolocation) {
           navigator.geolocation.getCurrentPosition(function(position)
           {
