@@ -183,6 +183,7 @@ def fun(id:  str = Form(""), psw :  str = Form(""), paLat: float= Form(""), paLo
         distances = []
         for driver in activeDrivers.values():
             if driver.stat == "active":
+                print(driver.lat)
                 dis = hs.haversine((paLat, paLong),(float(driver.lat), float(driver.long)))
                 distances.append(dis)
                 ans.append(driver)
