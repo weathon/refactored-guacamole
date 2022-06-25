@@ -51,7 +51,7 @@
     function showPosition(position) {
       const formData = new FormData();
 
-      formData.append("id", "");
+      formData.append("id", "123");
       formData.append("psw","" );
       formData.append("lat", latitude);
       formData.append("long",longitude);
@@ -79,7 +79,7 @@ function selectHos(ID)
 {
   const formData = new FormData();
 
-formData.append("id", "");
+formData.append("id", "123");
 formData.append("psw","" );
 formData.append("paLat", latitude);
 formData.append("paLong",longitude);
@@ -90,6 +90,13 @@ xhr.open("POST", "http://coder.weathon.top:8080/patient/getDriver");
 xhr.onload = function(event){ 
   json = JSON.parse(event.target.response)
   console.log(json) 
+  if(json.status == "fail")
+  {
+    alert(json.reason)
+  }
+  else{
+    window.location.href = "PatientSide_AfterConfirm.html"
+  }
 }; 
 // or onerror, onabort
 xhr.send(formData);
