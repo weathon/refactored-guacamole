@@ -2,12 +2,29 @@
 # Co-Au: GitHub Copilot
 
 from typing import Union
-from fastapi import FastAPI
+from fastapi import FastAPI, Form
 import pylab
 import haversine as hs
+from fastapi.middleware.cors import CORSMiddleware
+
+origins = [
+    "http://localhost.tiangolo.com",
+    "https://localhost.tiangolo.com",
+    "http://localhost",
+    "http://127.0.0.1:8000",
+]
+
+
 
 app = FastAPI()
 
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 activeDrivers = {}
 onCallDrivers = {}
@@ -43,24 +60,24 @@ hospitals = [
 ]
 
 
-import os
+import os 
 from twilio.rest import Client
 
 
 # Find your Account SID and Auth Token at twilio.com/console
 # and set the environment variables. See http://twil.io/secure
 
-
-
-
-SMS = "You got a ride request; please open the App as soon as possible to view the detial."
-def send_message(number):
-    account_sid = os.environ['TWILIO_ACCOUNT_SID']
-    auth_token = os.environ['TWILIO_AUTH_TOKEN']
+with open("../twilio.txt", "r") as f:
+    auth_token = f.readline().strip()
+    account_sid = f.readline().strip()
     client = Client(account_sid, auth_token)
+
+
+SMS = "You got a ride request; please open the App as soon as possible to view the detial. Or click the link to see the route. https://www.google.com/maps/dir/?api=1&destination=%s,%s&waypoints=%s,%s"
+def send_message(number, hospitallat, hospitallong, houselat, houselong):
     message = client.messages \
     .create(
-         body=SMS,
+         body=SMS % (hospitallat, hospitallong, houselat, houselong),
          from_='+17072895784',
          to='+1' + number
      )
@@ -74,7 +91,6 @@ class Driver:
         self.stat = None
 
 
-def send
 def passwordCheck(id, psw):
     return True
 
@@ -110,7 +126,7 @@ def fun(id, psw):
         return {"status": "error", "message": str(e)}
 
 @app.post("/patient/getHospitals")
-def fun(id, psw, lat: float, long: float):
+def fun(id: str = Form(""), psw: str = Form(""), lat: float= Form(-1), long: float= Form(-1)):
     try:
         if not passwordCheck(id, psw):
             return {"status": "fail", "reason": "password error"}
@@ -120,6 +136,7 @@ def fun(id, psw, lat: float, long: float):
             dis = hs.haversine((float(lat), float(long)),(hospital["latitude"], hospital["longitude"]))
             distances.append(dis)
             hospital["distance"] = dis
+            hospital["Rprice"] = dis * 0.5
             ans.append(hospital)
         indexes = pylab.np.argsort(distances)
         ans = pylab.np.array(ans)[indexes]
@@ -164,8 +181,14 @@ def fun(id, psw, paLat: float, paLong: float, hospitalID):
         cloestDriver = ans[0]
         onCallDrivers[cloestDriver.id] = {"lat":paLat, "long":paLong, "hospitalID":hospitalID}
         activeDrivers[cloestDriver.id].stat = "onCall"
-        send_message(cloestDriver.id)
+        send_message(cloestDriver.id, hospital["latitude"], hospital["longitude"], paLat, paLong)
         return {"status": "success", "driver": cloestDriver, "distance": distances[0]}
 
     # except Exception as e:
     #     return {"status": "error", "message": str(e)}
+
+
+
+@app.post("/hospital/getList")
+def fun(id, psw):
+    pass
