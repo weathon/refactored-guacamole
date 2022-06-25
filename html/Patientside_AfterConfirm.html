@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <script type="module" src="https://cdn.jsdelivr.net/npm/@ionic/core/dist/ionic/ionic.esm.js"></script>
+  <script nomodule src="https://cdn.jsdelivr.net/npm/@ionic/core/dist/ionic/ionic.js"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@ionic/core/css/ionic.bundle.css" />
+</head>
+
+<body>
+  <ion-app>
+    <ion-header translucent>
+      <ion-toolbar>
+        <ion-title>Your Ride is Coming</ion-title>
+      </ion-toolbar>
+    </ion-header>
+    <ion-content fullscreen>
+      <br />
+      <ion-item lines="none"><b style="color:black;font-size:20px" id="dis">Your Driver is <span id="sp">-</span> km
+          away</b></ion-item>
+      <ion-button color="success" expand="block" onclick="window.open('tel:123456789')">Call a Medical Professional
+      </ion-button>
+      <!-- <ion-input placeholder="Enter Message Here"></ion-input>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <ion-button color="success" expand="block">Call {{Destination}}</ion-button> -->
+    </ion-content>
+  </ion-app>
+  <script>
+
+    setInterval(function () {
+      var xhr = new XMLHttpRequest();
+      xhr.open("GET", "http://coder.weathon.top:8080/patient/getDistance?id=123&psw=");
+      xhr.onload = function (event) {
+        json = JSON.parse(event.target.response)
+        console.log(json)
+        document.getElementById("sp").innerText=json["distance"].toFixed(2)
+        if (json.status == "fail") {
+          alert(json.reason)
+        }
+      };
+xhr.send();
+
+    }, 2000);
+  </script>
+</body>
+
+</html>
