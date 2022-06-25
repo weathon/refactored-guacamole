@@ -18,18 +18,56 @@
         </ion-header>
         
         <ion-content fullscreen>
-            <p>Patient is {{PatientDistance}} miles away</p>
-            <br/>
-            <p>Patient's Destination is {{DestinationDistance}} miles from them</p>
-            <br/>
-            <p>Total Estimated Time is {{TimeEstimate}}</p>
-            <br/>
-            <p>Offer is ${{OfferAmount}}</p>
-            <br/>
-            <br/>
-            <ion-button color="success" expand="block">Accept</ion-button>
+          <ion-button color="success" expand="block" onclick="reportStat('active')">Finished The Ride</ion-button>
+          <ion-button color="success" expand="block" onclick="reportStat('active')">Start Working</ion-button>
+            <ion-button color="success" expand="block" onclick="reportStat('off')">Get Off Work</ion-button>
         </ion-content>    
     </ion-app>
+    <script>
+      setInterval(function(){
+
+        var latitude, longitude;
+    if (navigator.geolocation) {
+          navigator.geolocation.getCurrentPosition(function(position)
+          {
+            latitude = position.coords.latitude;
+            longitude = position.coords.longitude;
+            // document.getElementById("qwerty").setAttribute("disabled",false);
+            // document.getElementById("qwerty").innerText= "Call Ride"  ;
+          });
+        } 
+
+        var xhr = new XMLHttpRequest();
+      xhr.open("GET", "http://coder.weathon.top:8080/driver/reportLocation?id=123&psw=&lat="+latitude+"&long="+longitude);
+      xhr.onload = function (event) {
+        json = JSON.parse(event.target.response)
+        console.log(json)
+        if (json.status == "fail") {
+          alert(json.reason)
+        }
+        else{
+          // alert("Success")
+        }}
+      xhr.send()
+
+      },5000)
+      function reportStat(message)
+      {
+        var xhr = new XMLHttpRequest();
+      xhr.open("GET", "http://coder.weathon.top:8080/driver/reportStat?id=123&psw=&stat="+message);
+      xhr.onload = function (event) {
+        json = JSON.parse(event.target.response)
+        console.log(json)
+        if (json.status == "fail") {
+          alert(json.reason)
+        }
+        else{
+          alert("Success")
+        }}
+        xhr.send()
+      }
+    </script>
+
 </body>
 </html>
     
