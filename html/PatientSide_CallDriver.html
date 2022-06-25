@@ -1,35 +1,109 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <script type="module" src="https://cdn.jsdelivr.net/npm/@ionic/core/dist/ionic/ionic.esm.js"></script>
-<script nomodule src="https://cdn.jsdelivr.net/npm/@ionic/core/dist/ionic/ionic.js"></script>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@ionic/core/css/ionic.bundle.css" />
-</head>
-<body>
-    <ion-app>
-        <ion-header translucent>
-          <ion-toolbar>
-            <ion-title>Button</ion-title>
-          </ion-toolbar>
-        </ion-header>
-        <ion-content fullscreen>
-            <p>For life-threatening emergency, please call 911</p>
-    <ion-button color="danger" expand="block">Call 911</ion-button>
-    <br/>
-    <br/>
-    <br/>
-    <ion-button color="secondary" expand="block">Order Ride</ion-button>
-    <ion-list>
-        <ion-item>
-          <ion-label>{{name}} - {{dis}}</ion-label>
-        </ion-item>
-      </ion-list>
-        </ion-content>
-        </ion-app>
 
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>App</title>
+  <script type="module" src="https://cdn.jsdelivr.net/npm/@ionic/core/dist/ionic/ionic.esm.js"></script>
+  <script nomodule src="https://cdn.jsdelivr.net/npm/@ionic/core/dist/ionic/ionic.js"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@ionic/core/css/ionic.bundle.css" />
+  <script>
+    var latitude, longitude;
+    if (navigator.geolocation) {
+          navigator.geolocation.getCurrentPosition(function(position)
+          {
+            latitude = position.coords.latitude;
+            longitude = position.coords.longitude;
+            document.getElementById("qwerty").setAttribute("disabled",false);
+            document.getElementById("qwerty").innerText= "Call Ride"  ;
+          });
+        } else {
+          alert("Geolocation is not supported by this browser.");
+        }
+  </script>
+</head>
+
+<body>
+  <ion-app>
+    <ion-header translucent>
+      <ion-toolbar>
+        <ion-title>Button</ion-title>
+      </ion-toolbar>
+    </ion-header>
+    <ion-content>
+      
+      <ion-item lines="none"><p>For life-threatening emergency, please call 911.</p></ion-item>
+      <ion-button color="danger" expand="block" onclick="window.open('tel:911');">Call 911</ion-button>
+      <ion-button color="secondary" expand="block" onclick="callride()" disabled=true id="qwerty">Getting Location</ion-button>
+      <ion-list id="hoslist">
+
+      </ion-list>
+    </ion-content>
+  </ion-app>
+  <script>
+    
+    function callride() {
+      showPosition();
+   
+    }
+    function showPosition(position) {
+      const formData = new FormData();
+
+      formData.append("id", "123");
+      formData.append("psw","" );
+      formData.append("lat", latitude);
+      formData.append("long",longitude);
+
+
+var xhr = new XMLHttpRequest();
+xhr.open("POST", "http://coder.weathon.top:8080/patient/getHospitals"); 
+xhr.onload = function(event){ 
+  json = JSON.parse(event.target.response).hospitals 
+    for(var i=0;i<json.length;i++)
+    {
+      document.getElementById("hoslist").innerHTML+="<ion-item onclick='selectHos("+json[i].ID+")'><ion-label>Name: "+json[i].name
+        +"<br/>Distance: " + json[i].distance.toFixed(2)+" km <br/>Price: $"+ json[i].Rprice.toFixed(2) +"</ion-label></ion-item>";
+
+    }
+}; 
+// or onerror, onabort
+xhr.send(formData);
+
+
+}
+
+
+function selectHos(ID)
+{
+  const formData = new FormData();
+
+formData.append("id", "123");
+formData.append("psw","" );
+formData.append("paLat", latitude);
+formData.append("paLong",longitude);
+formData.append("hospitalID",ID);
+var xhr = new XMLHttpRequest();
+
+xhr.open("POST", "http://coder.weathon.top:8080/patient/getDriver"); 
+xhr.onload = function(event){ 
+  json = JSON.parse(event.target.response)
+  console.log(json) 
+  if(json.status == "fail")
+  {
+    alert(json.reason)
+  }
+  else{
+    window.location.href = "PatientSide_AfterConfirm.html"
+  }
+}; 
+// or onerror, onabort
+xhr.send(formData);
+
+
+}
+  </script>
 </body>
+
 </html>
