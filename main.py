@@ -94,8 +94,8 @@ class Driver:
 def passwordCheck(id, psw):
     return True
 
-@app.post("/driver/reportLocation")
-def fun(id, psw, lat, long, Dtype, stat):
+@app.get("/driver/reportLocation")
+def fun(id, psw, lat, long, Dtype = 0):
     try:
         if not passwordCheck(id, psw):
             return {"status": "fail", "reason": "password error"}
@@ -104,23 +104,23 @@ def fun(id, psw, lat, long, Dtype, stat):
             activeDrivers[id].lat = lat
             activeDrivers[id].long = long
             activeDrivers[id].Dtype = Dtype
-            activeDrivers[id].stat = stat
+            # activeDrivers[id].stat = stat
         else:
             # new driver
             activeDrivers[id] = Driver(id, lat, long, Dtype)
-            activeDrivers[id].stat = stat
+            # activeDrivers[id].stat = stat
         return {"status": "success"} 
     except Exception as e:
         return {"status": "error", "message": str(e)}
     
 
-@app.post("/driver/stopStat")
-def fun(id, psw):
+@app.get("/driver/reportStat")
+def fun(id, psw, stat):
     try:
         if not passwordCheck(id, psw):
             return {"status": "fail", "reason": "password error"}
         if id in activeDrivers.keys():
-            activeDrivers[id].stat = "stop"
+            activeDrivers[id].stat = stat
         return {"status": "success"} 
     except Exception as e:
         return {"status": "error", "message": str(e)}
