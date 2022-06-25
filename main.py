@@ -73,7 +73,7 @@ with open("../twilio.txt", "r") as f:
     client = Client(account_sid, auth_token)
 
 
-SMS = "You got a ride request; please open the App as soon as possible to view the detial. Or click the link to see the route. https://www.google.com/maps/dir/?api=1&destination=%s,%s&waypoints=%s,%s"
+SMS = "You got a ride request; please open the App as soon as possible to view the detail. Or click the link to see the route. https://www.google.com/maps/dir/?api=1&destination=%s,%s&waypoints=%s,%s"
 def send_message(number, hospitallat, hospitallong, houselat, houselong):
     message = client.messages \
     .create(
