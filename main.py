@@ -42,6 +42,29 @@ hospitals = [
     }
 ]
 
+
+import os
+from twilio.rest import Client
+
+
+# Find your Account SID and Auth Token at twilio.com/console
+# and set the environment variables. See http://twil.io/secure
+
+
+
+
+SMS = "You got a ride request; please open the App as soon as possible to view the detial."
+def send_message(number):
+    account_sid = os.environ['TWILIO_ACCOUNT_SID']
+    auth_token = os.environ['TWILIO_AUTH_TOKEN']
+    client = Client(account_sid, auth_token)
+    message = client.messages \
+    .create(
+         body=SMS,
+         from_='+17072895784',
+         to='+1' + number
+     )
+
 class Driver:
     def __init__(self, id, lat, long, Dtype):
         self.id = id
@@ -50,6 +73,8 @@ class Driver:
         self.type = Dtype # 传染病/somewhat engerency
         self.stat = None
 
+
+def send
 def passwordCheck(id, psw):
     return True
 
@@ -108,7 +133,7 @@ def fun(id, psw):
     if not passwordCheck(id, psw):
         return {"status": "fail", "reason": "password error"}
     if id in onCallDrivers.keys():
-        return {"status": "success", "onCall": True, "info": onCallDrivers[id]}
+        return {"status": "success", "onCall": True, "info": onCallDrivers[id], "hospitals": hospitals}
     else:
         return {"status": "success", "onCall": False}
 
@@ -139,6 +164,7 @@ def fun(id, psw, paLat: float, paLong: float, hospitalID):
         cloestDriver = ans[0]
         onCallDrivers[cloestDriver.id] = {"lat":paLat, "long":paLong, "hospitalID":hospitalID}
         activeDrivers[cloestDriver.id].stat = "onCall"
+        send_message(cloestDriver.id)
         return {"status": "success", "driver": cloestDriver, "distance": distances[0]}
 
     # except Exception as e:
