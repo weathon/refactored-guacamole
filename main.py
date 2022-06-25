@@ -92,7 +92,7 @@ def fun(id, psw, lat: float, long: float):
         ans = []
         distances = []
         for hospital in hospitals:
-            dis = hs.haversine((lat, long),(hospital["latitude"], hospital["longitude"]))
+            dis = hs.haversine((float(lat), float(long)),(hospital["latitude"], hospital["longitude"]))
             distances.append(dis)
             hospital["distance"] = dis
             ans.append(hospital)
@@ -107,10 +107,14 @@ def fun(id, psw, lat: float, long: float):
 def fun(id, psw):
     if not passwordCheck(id, psw):
         return {"status": "fail", "reason": "password error"}
-    
+    if id in onCallDrivers.keys():
+        return {"status": "success", "onCall": True, "info": onCallDrivers[id]}
+    else:
+        return {"status": "success", "onCall": False}
+
 
 @app.post("/patient/getDriver")
-def fun(id, psw, hospitalID):
+def fun(id, psw, paLat: float, paLong: float, hospitalID):
     # try:
         for i in range(len(hospitals)):
             if hospitals[i]["ID"] == hospitalID:
@@ -122,7 +126,7 @@ def fun(id, psw, hospitalID):
         distances = []
         for driver in activeDrivers.values():
             if driver.stat == "active":
-                dis = hs.haversine((hospital["latitude"], hospital["longitude"]),(float(driver.lat), float(driver.long)))
+                dis = hs.haversine((paLat, paLong),(float(driver.lat), float(driver.long)))
                 distances.append(dis)
                 ans.append(driver)
         if len(ans) == 0:
@@ -133,7 +137,7 @@ def fun(id, psw, hospitalID):
         if len(ans) == 0:
             return {"status": "fail", "reason": "no driver available"}
         cloestDriver = ans[0]
-        onCallDrivers[cloestDriver.id] = cloestDriver
+        onCallDrivers[cloestDriver.id] = {"lat":paLat, "long":paLong, "hospitalID":hospitalID}
         activeDrivers[cloestDriver.id].stat = "onCall"
         return {"status": "success", "driver": cloestDriver, "distance": distances[0]}
 
