@@ -102,8 +102,9 @@ def fun(id, psw, lat, long, Dtype = 0):
             return {"status": "fail", "reason": "password error"}
         if id in activeDrivers.keys():
             # already active
-            activeDrivers[id].lat = lat
-            activeDrivers[id].long = long
+            if lat and long:
+                activeDrivers[id].lat = lat
+                activeDrivers[id].long = long
             activeDrivers[id].Dtype = Dtype
             # activeDrivers[id].stat = stat
         else:
