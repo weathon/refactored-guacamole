@@ -36,7 +36,7 @@
 
     setInterval(function () {
       var xhr = new XMLHttpRequest();
-      xhr.open("GET", "http://coder.weathon.top:8080/patient/getDistance?id=123&psw=");
+      xhr.open("GET", "https://coder.weathon.top/patient/getDistance?id=123&psw=");
       xhr.onload = function (event) {
         json = JSON.parse(event.target.response)
         console.log(json)
