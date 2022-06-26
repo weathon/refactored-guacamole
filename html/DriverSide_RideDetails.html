@@ -38,8 +38,8 @@
           });
         } 
 
-        var xhr = new XMLHttpRequest();
-      xhr.open("GET", "http://coder.weathon.top:8080/driver/reportLocation?id=123&psw=&lat="+latitude+"&long="+longitude);
+        var xhr = new XMLHttpRequest(); 
+      xhr.open("GET", "http://coder.weathon.top:8080/driver/reportLocation?id=5738253591&psw=&lat="+latitude+"&long="+longitude);
       xhr.onload = function (event) {
         json = JSON.parse(event.target.response)
         console.log(json)

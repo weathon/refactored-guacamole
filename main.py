@@ -121,8 +121,11 @@ def fun(id, psw, stat):
     try:
         if not passwordCheck(id, psw):
             return {"status": "fail", "reason": "password error"}
-        if id in activeDrivers.keys():
-            activeDrivers[id].stat = stat
+        # if id in activeDrivers.keys(): copolitjiade
+        driver =  activeDrivers[id]
+        driver.stat = stat # not reported back daduan?
+        activeDrivers[id] = driver
+        print(driver)
         return {"status": "success"} 
     except Exception as e:
         return {"status": "error", "message": str(e)}
@@ -183,6 +186,7 @@ def fun(id:  str = Form(""), psw :  str = Form(""), paLat: float= Form(""), paLo
         ans = []
         distances = []
         for driver in activeDrivers.values():
+            print(driver.stat)
             if driver.stat == "active":
                 print(driver.lat)
                 dis = hs.haversine((paLat, paLong),(float(driver.lat), float(driver.long)))
