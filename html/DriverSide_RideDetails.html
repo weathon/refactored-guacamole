@@ -39,7 +39,7 @@
         } 
 
         var xhr = new XMLHttpRequest(); 
-      xhr.open("GET", "http://coder.weathon.top:8080/driver/reportLocation?id=5738253591&psw=&lat="+latitude+"&long="+longitude);
+      xhr.open("GET", "https://coder.weathon.top/driver/reportLocation?id=5738253591&psw=&lat="+latitude+"&long="+longitude);
       xhr.onload = function (event) {
         json = JSON.parse(event.target.response)
         console.log(json)
@@ -55,7 +55,7 @@
       function reportStat(message)
       {
         var xhr = new XMLHttpRequest();
-      xhr.open("GET", "http://coder.weathon.top:8080/driver/reportStat?id=5738253591&psw=&stat="+message);
+      xhr.open("GET", "https://coder.weathon.top/driver/reportStat?id=5738253591&psw=&stat="+message);
       xhr.onload = function (event) {
         json = JSON.parse(event.target.response)
         console.log(json)
