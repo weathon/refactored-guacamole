@@ -58,7 +58,7 @@
 
 
 var xhr = new XMLHttpRequest();
-xhr.open("POST", "http://coder.weathon.top:8080/patient/getHospitals"); 
+xhr.open("POST", "https://coder.weathon.top/patient/getHospitals"); 
 xhr.onload = function(event){ 
   json = JSON.parse(event.target.response).hospitals 
     for(var i=0;i<json.length;i++)
@@ -86,7 +86,7 @@ formData.append("paLong",longitude);
 formData.append("hospitalID",ID);
 var xhr = new XMLHttpRequest();
 
-xhr.open("POST", "http://coder.weathon.top:8080/patient/getDriver"); 
+xhr.open("POST", "https://coder.weathon.top/patient/getDriver"); 
 xhr.onload = function(event){ 
   json = JSON.parse(event.target.response)
   console.log(json) 
