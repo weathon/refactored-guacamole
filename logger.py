@@ -12,9 +12,12 @@ def exec_statement(conn, stmt):
     except psycopg2.ProgrammingError:
         return
 import time
-
+replacing = ["'",'"',"$",",","/","\\",";",")","(","!"]
 def log(msg):
-
+    for i in replacing:
+        msg = msg.replace(i,"")
+        #santizing
+        
     # Connect to CockroachDB
     connection = psycopg2.connect(os.environ['DATABASE_URL'])
 

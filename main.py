@@ -6,6 +6,7 @@ from fastapi import FastAPI, Form
 import numpy as np
 import haversine as hs
 from fastapi.middleware.cors import CORSMiddleware
+import logger
 
 origins = [
     "http://localhost.tiangolo.com",
@@ -74,6 +75,8 @@ with open("../twilio.txt", "r") as f:
     client = Client(account_sid, auth_token)
 
 
+logger.log("Server Started!")
+
 SMS = "You got a ride request; please open the App as soon as possible to view the detail. Or click the link to see the route. https://www.google.com/maps/dir/?api=1&destination=%s,%s&waypoints=%s,%s"
 def send_message(number, hospitallat, hospitallong, houselat, houselong):
     message = client.messages \
@@ -82,6 +85,7 @@ def send_message(number, hospitallat, hospitallong, houselat, houselong):
          from_='+17072895784',
          to='+1' + number
      )
+     logger.log("Sent message to %s" %numebr)
 
 class Driver:
     def __init__(self, id, lat, long, Dtype):
@@ -132,6 +136,8 @@ def fun(id, psw, stat):
 
 @app.post("/patient/getHospitals")
 def fun(id: str = Form(""), psw: str = Form(""), lat: float= Form(-1), long: float= Form(-1)):
+    logger.log("getHospitals from " % id)
+
     try:
         if not passwordCheck(id, psw):
             return {"status": "fail", "reason": "password error"}
@@ -177,6 +183,8 @@ def fun(id, psw):
     
 @app.post("/patient/getDriver")
 def fun(id:  str = Form(""), psw :  str = Form(""), paLat: float= Form(""), paLong: float= Form(""), hospitalID: str = Form("")):
+    logger.log("getDriver from " % id)
+
     # try:
         for i in range(len(hospitals)):
             if hospitals[i]["ID"] == hospitalID:
