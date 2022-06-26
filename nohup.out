@@ -1,0 +1,2949 @@
+INFO:     Started server process [112572]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [112572]
+INFO:     Started server process [112579]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     128.206.20.74:0 - "GET /update/check HTTP/1.1" 404 Not Found
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     124.117.198.106:0 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     124.117.198.106:0 - "GET / HTTP/1.1" 404 Not Found
+INFO:     27.227.186.194:0 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     27.227.186.194:0 - "GET / HTTP/1.1" 404 Not Found
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     124.117.198.106:0 - "GET /gaocc/g445g HTTP/1.1" 404 Not Found
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     27.227.186.194:0 - "GET /gaocc/g445g HTTP/1.1" 404 Not Found
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     67.6.63.221:0 - "POST /patient/getHospitals HTTP/1.1" 200 OK
+INFO:     67.6.63.221:0 - "POST /patient/getDriver HTTP/1.1" 200 OK
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.10', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.20.74', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.77', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
+INFO:     ('128.206.18.190', 0) - "WebSocket /" 403
+INFO:     connection failed (403 Forbidden)
+INFO:     connection closed
